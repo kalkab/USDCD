@@ -16,7 +16,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-
+[image2]: ./Image Processed/Gaussian Blur.png "Gauss"
+[image3]: ./Image Processed/Canny Img.png "Canny"
+[image4]: ./Image Processed/Region of Interest Img.png "Reg"
+[image5]: ./Image Processed/Line Image.png "Lane"
+[image6]: ./Image Processed/Final Image.png "Final"
 ---
 
 ### Reflection
@@ -30,7 +34,11 @@ As a last step I have modified the draw_lines function and currently the code is
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 ![alt text][image1]
-
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
 
 ### 2. Identify potential shortcomings with your current pipeline
 
