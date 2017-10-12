@@ -31,7 +31,6 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 ![alt text][image1]
 
-
 ### 2. Identify potential shortcomings with your current pipeline
 
 One potential shortcoming would be what would happen when the whole road is on constant turn (left or right). Currently I have applied first order polynomial. Perhaps 2nd  order will be better for that purposes but I will need to test that in various scenarios. 
